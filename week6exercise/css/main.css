@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+img {
+  height:400px;
+  width: 400px;
+}
+
+.changed{
+  font-size: bold;
+  font-size: 44px;
+  text-transform: capitalize;
+  color: green;
+}
+
+#newnewDiv {
+  height: 300px;
+  width: 300px;
+  background-color: blue;
+}
+
+#newnewnewDiv {
+  height: 500px;
+  width: 800px;
+  background-color: pink;
+}
+
+#divSnow {
+  height: 400px;
+  width: 100%;
+  background-color: black;
+}
